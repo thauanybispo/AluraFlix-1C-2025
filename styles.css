@@ -30,3 +30,15 @@ h1 {
 p {
   font-size: 20px;
 }
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
+
+.categoria h2 {
+
+}
+
+.categoria h2 {
+    color: rgb(255, 45, 97)
+}
