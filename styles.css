@@ -42,3 +42,12 @@ p {
 .categoria h2 {
     color: rgb(255, 45, 97)
 }
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
